@@ -49,7 +49,7 @@
             android:value="@integer/google_play_services_version" /> <!-- Update this value to your google maps api key. -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="null" />
+            android:value="AIzaSyDFZdDpeAivieFhfm4d5guPCqhE2s3IgEU" />
 
         <activity
             android:name="io.flutter.embedding.android.FlutterActivity"

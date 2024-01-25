@@ -1,14 +1,10 @@
 -- Merging decision tree log ---
-meta-data#com.google.android.geo.API_KEY
-INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:11:9-13:45
-	android:value
-		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
-INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
-MERGED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
+ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
 MERGED from [:espresso] /home/kennyrtovar/StudioProjects/example/build/espresso/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:google_maps_flutter_android] /home/kennyrtovar/StudioProjects/example/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_plugin_android_lifecycle] /home/kennyrtovar/StudioProjects/example/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
@@ -75,15 +71,15 @@ INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/debug/And
 INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/debug/AndroidManifest.xml:1:1-16:12
 	package
 		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
 		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
 		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:1-30:12
 		INJECTED from /home/kennyrtovar/StudioProjects/example/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -100,9 +96,9 @@ ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/Android
 	android:name
 		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:4:22-76
 application
-ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:6:5-28:19
-MERGED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:6:5-28:19
-MERGED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:6:5-28:19
+ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:6:5-29:19
 MERGED from [androidx.test.espresso:espresso-contrib:3.5.1] /home/kennyrtovar/.gradle/caches/transforms-3/e79b4f9830a33c7fd4449cf64356445f/transformed/espresso-contrib-3.5.1/AndroidManifest.xml:24:5-20
 MERGED from [androidx.test.espresso:espresso-contrib:3.5.1] /home/kennyrtovar/.gradle/caches/transforms-3/e79b4f9830a33c7fd4449cf64356445f/transformed/espresso-contrib-3.5.1/AndroidManifest.xml:24:5-20
 MERGED from [androidx.test.espresso:espresso-accessibility:3.5.1] /home/kennyrtovar/.gradle/caches/transforms-3/eb0adb6c1b8dd8ddac3e409bb8853f26/transformed/espresso-accessibility-3.5.1/AndroidManifest.xml:24:5-20
@@ -147,6 +143,12 @@ MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/kennyrt
 		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:9:13-66
 	android:name
 		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:8:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:11:9-13:71
+	android:value
+		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:13:13-68
+	android:name
+		ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:12:13-58
 activity#io.flutter.embedding.android.FlutterActivity
 ADDED from /home/kennyrtovar/StudioProjects/example/android/app/src/main/AndroidManifest.xml:14:9-26:20
 	android:hardwareAccelerated
