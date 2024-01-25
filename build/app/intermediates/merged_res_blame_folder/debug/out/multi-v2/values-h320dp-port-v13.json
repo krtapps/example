@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.googlemapsexample.app-mergeDebugResources-24:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/home/kennyrtovar/.gradle/caches/transforms-3/c0835fd35e154b10f9c3931f8e8995e3/transformed/material-1.4.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

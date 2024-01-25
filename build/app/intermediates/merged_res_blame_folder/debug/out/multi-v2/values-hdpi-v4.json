@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.googlemapsexample.app-mergeDebugResources-24:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/kennyrtovar/.gradle/caches/transforms-3/9bcd8136a78fe2cf834945604b73f4a9/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
